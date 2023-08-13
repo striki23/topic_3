@@ -1,8 +1,8 @@
-working_hours = ...  # здесь Ваш код
-
 hourly_rate = ...  # здесь Ваш код
 
-salary = hourly_rate * working_hours
+working_hours = ...  # здесь Ваш код
+
+salary = ...  # здесь Ваш код
 
 print(...)  # допишите код
 print(...)  # допишите код

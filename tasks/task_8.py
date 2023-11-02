@@ -1,5 +1,5 @@
 celsius = int(input('Введите температуру в градусах Цельсия: '))  # здесь Ваш код
 
-fahrenheit = celsius*1.8 + 32  # здесь Ваш код
+fahrenheit = celsius * 1.8 + 32  # здесь Ваш код
 
 print(f'Температура по Фаренгейту: {fahrenheit}')  # допишите код
